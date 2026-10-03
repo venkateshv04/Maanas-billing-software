@@ -1,0 +1,5 @@
+# The release folder is uploaded to GitHub Releases, not committed (the program files are large).
+release/
+*.key
+*.pem
+.env
